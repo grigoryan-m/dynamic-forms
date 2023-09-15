@@ -1,2 +1,2 @@
-# dynamic-forms
-Day #19 of 100-day-javascript!
+# Dynamic forms 
+This project is day #19 of <a href="https://github.com/grigoryan-m/100-day-javascript">100-day-javascript</a>!
